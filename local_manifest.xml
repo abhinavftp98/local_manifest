@@ -3,6 +3,6 @@
   <project path="device/oppo/RMX1805" name="Abhinavftp/device_oppo_RMX1805" remote="github" revision="lineage-18.1" />
   <project path="vendor/oppo/" name="Abhinavftp/vendor_oppo" remote="github" revision="lineage-18.1" />
 
-rm -rf device/aosp/sepolicy/common/dynamic/hal_aosp_smartcharge.te
+Rm -rf device/aosp/sepolicy/common/dynamic/hal_aosp_smartcharge.te
 
 </manifest>
