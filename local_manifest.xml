@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/oppo/RMX1805" name="abhinavftp98/device_oppo_RMX1805" remote="github" revision="cherish" />
+  <project path="device/oppo/RMX1805" name="abhinavftp98/device_oppo_RMX1805" remote="github" revision="main" />
   <project path="vendor/oppo/" name="abhinavftp98/vendor_oppo" remote="github" revision="lineage-18.1" />
 
 </manifest>
